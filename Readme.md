@@ -66,7 +66,7 @@ Frontend Setup
    npm startcd expense-tracker/frontend
    ```
 
-2.Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
@@ -78,9 +78,7 @@ Frontend Setup
     npm start
     ```
 
-License
+4.  License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-    ```bash
     Feel free to customize this `README.md` file with any additional information or instructions specific to your application.
-    ```
