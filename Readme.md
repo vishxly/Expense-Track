@@ -62,35 +62,32 @@ Frontend Setup
 
 1. Open a new terminal and navigate to the frontend director
 
-```bash
- npm startcd expense-tracker/frontend
+   ```bash
+   npm startcd expense-tracker/frontend
 
-
-```
+   ```
 
 2.Install dependencies:
 
-```bash
- npm install
+        ```bash
+    npm install
 
+    ````
 
+3.  Open a new terminal and navigate to the frontend director
 
-```
+        ```bash
 
-3. Open a new terminal and navigate to the frontend director
+    npm start
 
-```bash
- npm start
+    ```
 
-
-```
+    ```
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-```bash
+        ```bash
+    Feel free to customize this `README.md` file with any additional information or instructions specific to your application.
 
-Feel free to customize this `README.md` file with any additional information or instructions specific to your application.
-
-
-```
+    ```
