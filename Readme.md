@@ -69,25 +69,23 @@ Frontend Setup
 
 2.Install dependencies:
 
-        ```bash
+    ```bash
     npm install
 
     ````
 
 3.  Open a new terminal and navigate to the frontend director
 
-        ```bash
+    ```bash
 
     npm start
-
-    ```
 
     ```
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-        ```bash
+    ```bash
     Feel free to customize this `README.md` file with any additional information or instructions specific to your application.
 
     ```
