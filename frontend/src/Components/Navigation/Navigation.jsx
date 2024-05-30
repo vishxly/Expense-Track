@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import styled from "styled-components";
-import avatar from "../../img/avatar.png";
+import user1 from "../../img/user1.png";
 import { signout } from "../../utils/Icons";
 import { menuItems } from "../../utils/menuItems";
 
@@ -8,9 +8,9 @@ function Navigation({ active, setActive }) {
   return (
     <NavStyled>
       <div className="user-con">
-        <img src={avatar} alt="" />
+        <img src={user1} alt="" />
         <div className="text">
-          <h2>Mike</h2>
+          <h2>Vyan</h2>
           <p>Your Money</p>
         </div>
       </div>
